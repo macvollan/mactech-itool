@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+build/
+dist/
+*.app
+.env
+.venv
+env/
+venv/
+*.tmp
+temp_screenshot.png
